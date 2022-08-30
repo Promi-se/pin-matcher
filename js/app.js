@@ -45,7 +45,7 @@ function verifyPin(){
         failError.style.display = 'block';
         successMessage.style.display = 'none';
     }
-}
+};
 
 
 
